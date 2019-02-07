@@ -11,3 +11,16 @@ $source activate
 $python ScraperBot.py
 ```
 Wait till all 300 files are stored in the Atlas Cluster.
+
+## Directory Structure
+```terminal
+.
+├── LICENSE
+├── README.md
+├── ScraperBot.py
+├── imdbid.csv
+└── movie_details.json
+```
+
+## Important Details
+movie_details.json is the collections file of the entire movie_details database .
